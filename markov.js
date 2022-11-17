@@ -68,5 +68,4 @@ class MarkovMachine {
 }
 
 module.exports = { MarkovMachine }
-// let mm = new MarkovMachine('the cat in the hat')
-// let finalText = mm.makeText()
+
